@@ -7,5 +7,6 @@ Greeen
 Blue
 Indigo
 Violet
+Unicorn
 
-These are the colours of the rainbow
+These are the colours of the rainbow and the Unicorn
